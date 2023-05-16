@@ -150,12 +150,6 @@ img {
     
 }
 
-footer {
-    background-color: black;
-    min-height: 60px;
-    width: 100%;
-    text-align: center;
-}
 
 /*contacts*/
 
@@ -228,6 +222,19 @@ table {
     font-weight: 200;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.737);
+}
+
+footer {
+    background-color: black;
+    min-height: 80px;
+    width: 100%;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 35px;
+    font-weight: 300;
+    padding-top: 10px;
 }
  
 
